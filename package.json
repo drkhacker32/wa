@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@replit/vite-plugin-runtime-error-modal": "^0.0.3",
+    "@replit/vite-plugin-shadcn-theme-json": "^0.0.4",
+    "@vitejs/plugin-react": "^4.3.4",
+    "@whiskeysockets/baileys": "^6.7.12",
+    "express": "^4.21.2",
+    "vite": "^6.1.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0"
+  },
+  "scripts": {
+    "dev": "tsx server/index.ts"
+  }
+}
